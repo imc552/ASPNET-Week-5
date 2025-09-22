@@ -8,6 +8,8 @@ Both variables in the UserProfileViewModel have restrictions attached to them. B
 
 Added Create and Edit forms to the HomeController that append the UserProfileViewModel to an XML file. The file is saved to the programs root folder.
 
+Added two options to the header "User Sign Up" and "Edit Profile"
+
 Added a view form that takes inputs for Username and Age (Both are required)
 
 Added a page for changing the username by replacing the XML file with a new one
