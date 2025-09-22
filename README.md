@@ -12,7 +12,7 @@ Added two options to the header "User Sign Up" and "Edit Profile"
 
 Added a view form that takes inputs for Username and Age (Both are required)
 
-Added a page for changing the username by replacing the XML file with a new one
+Added a page for "editing" the username by just replacing the XML file with a new one
 
 Copilot: I used it to tell me how to load an XML file and pass that information to the Home/Index action so it can display a welcome message + Username
 
